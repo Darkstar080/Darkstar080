@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm a Frontend Developer who loves turning designs into fast, responsive, and user-friendly interfaces.<br><br>🔭 Currently working on **TechPath** & **FittingWala** — actively building and shipping features.<br><br>🌱 Always exploring new frontend tools and best practices to write better, cleaner code.<br><br>📫 Feel free to browse my work and reach out!
+💻 I'm a Frontend Developer who loves turning designs into fast, responsive, and user-friendly interfaces.<br><br>🔭 Currently working on **TechPath** & **SyncSpace** — actively building and shipping features.<br><br>🌱 Always exploring new frontend tools and best practices to write better, cleaner code.<br><br>📫 Feel free to browse my work and reach out!
 
 
 ## 🌐 Socials:
